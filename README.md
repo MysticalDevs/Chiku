@@ -21,7 +21,7 @@
    
 <h1 align="center"><b>🇨ʜɪᴋᴜ</b></h1>
 
-![chiku](./Image/chikuu.png)
+![chiku](./Image/chiku5.png)
 
 # 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐂𝐡𝐢𝐤𝐮 𝐁𝐨𝐭
 

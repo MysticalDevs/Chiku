@@ -12,8 +12,8 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="8" height="3">
 
 <p align="center">
-  <a href="https://github-stats-alpha.vercel.app/api?username=MURALIBOTZ&cc=000&tc=fff&ic=fff&bc=000" title="MURALI">
-    <img src="https://github-stats-alpha.vercel.app/api?username=MURALIBOTZ&cc=255&tc=fff&ic=ff69b4&bc=870" alt="GITHUB" />
+  <a href="https://github-stats-alpha.vercel.app/api?username=MysticalDevs&cc=000&tc=fff&ic=fff&bc=000" title="MURALI">
+    <img src="https://github-stats-alpha.vercel.app/api?username=MysticalDevs&cc=255&tc=fff&ic=ff69b4&bc=870" alt="GITHUB" />
   </a>
 </p>
 
